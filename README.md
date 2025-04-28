@@ -28,7 +28,7 @@ Data-focused Technical Leader with 15+ years of experience driving innovation at
 
 ### Financial Industry Solutions
 
-* [**Loan Default Prediction System**](https://github.com/EddieMazaro/loan-default-prediction) [Coming Soon]: A machine learning approach to predict loan default probability with risk scoring mechanisms
+* [**Loan Default Prediction System**](https://github.com/DevMazaro/loan-default-prediction): A machine learning approach to predict loan default probability with risk scoring mechanisms
 * [**Credit Risk Assessment Framework**](https://github.com/EddieMazaro/credit-risk-model) [Coming Soon]: A modeling system for credit risk evaluation with regulatory compliance considerations
 
 ### Automotive Industry Applications
