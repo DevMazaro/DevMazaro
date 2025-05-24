@@ -1,21 +1,26 @@
 # Eduardo A. Mazaro
-### Data-Focused Technical Leader | Enterprise Architecture | Digital Transformation
+### Seasoned Technical Program Manager | AI/ML & Data Infrastructure Leader | Delivering Enterprise-Scale Programs for Fortune 500 Companies
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardomazaro-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/eduardomazaro)
 [![Email](https://img.shields.io/badge/Email-dev.mazaro%40gmail.com-red?style=flat-square&logo=gmail)](mailto:dev.mazaro@gmail.com)
 
 ## About Me
-Data-focused Technical Leader with 15+ years of experience driving innovation at the intersection of technology and business strategy. I orchestrate enterprise-wide data integration, analytics programs, and digital transformations for Fortune 500 companies including Warner Bros., Dell, and Disney. Currently advancing expertise in Data Science and AI to drive next-generation solutions that convert information into competitive advantage.
+**Technical Program Manager building enterprise-scale data infrastructure and AI/ML systems for Fortune 500 companies.**
 
+With 15+ years of hands-on experience, I architect and deliver high-throughput data systems processing 2M+ events per second and 5TB+ daily volumes. I lead technical teams at Warner Bros., Dell, and Disney while staying close to the code - orchestrating Apache Kafka pipelines, Spark clusters, and ML model deployments that drive real business impact.
+
+- **Technical achievements:** 95% processing improvements, 99% deployment time reductions, and systems handling massive enterprise scale.
+- **Current focus:** Advanced data science, distributed systems, and ML engineering - reflected in the projects below.
 ---
 
 ## SKILLS HIGHLIGHTS
-- **Data & Analytics:** Data Integration, Data Analysis, Business Intelligence, ETL/ELT, Customer Data Platforms (CDP), Data Governance
-- **Enterprise Solutions:** Enterprise Architecture, Portfolio Management, Digital Transformation, Program Funding/ROI
-- **Leadership & Communication:** People Management, Cross-functional Team Leadership, Stakeholder Management, Executive Communication, Strategic Vision
-- **Methodologies:** Agile (SAFe, LeSS), SCRUM (PSM Certified), Hybrid Frameworks
-- **Machine Learning:** ML Workflows, Model Lifecycle, Model Deployment, Predictive Modeling
-- **Programming & Database:** Python, C#, .NET, Node.js, SQL, NoSQL, Graph Database
-- **Cloud & Infrastructure:** AWS, Data Warehousing, Data Lakes
+- **Program & Portfolio Management:** Program Governance, Portfolio Prioritization, Resource Allocation, Roadmap Development, Strategic Planning, Risk & Change Management, Stakeholder Alignment, Program Funding/ROI
+- **Data & Analytics:** Data Integration, Data Architecture, Business Intelligence, ETL/ELT, Customer Data Platforms (CDP), Apache Kafka, Apache Spark, Apache Airflow, Predictive Analytics
+- **Enterprise Solutions:** Technical Program Management, Product Management, Enterprise Architecture, Digital Transformation, Systems Integration, Vendor Management
+- **Leadership & Communication:** Cross-functional Team Leadership, Executive Presentations, Stakeholder Management, Strategic Vision, Organizational Change, People Management
+- **Methodologies:** Agile (SAFe, LeSS), SCRUM (PSM Certified), Hybrid Frameworks, DevOps
+- **Machine Learning & AI:** ML Workflows, Model Lifecycle Management, Predictive Modeling, Data Science Integration
+- **Programming & Database:** Python, C#, SQL, NoSQL, Graph Databases, Data Warehousing
+- **Cloud & Infrastructure:** AWS, Cloud Migration, Scalable Architecture Design
 
 ---
 
