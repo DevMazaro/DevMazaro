@@ -31,7 +31,17 @@ With 15+ years of hands-on experience, I architect and deliver high-throughput d
 * [**Loan Default Prediction System**](https://github.com/DevMazaro/loan-default-prediction): A machine learning approach to predict loan default probability with risk scoring mechanisms for financial applications
 * [**Mall Customer Segmentation Analysis**](https://github.com/DevMazaro/mall-customer-segmentation): Comprehensive customer segmentation using multiple clustering techniques (K-Means, Hierarchical, DBSCAN) with actionable business insights
 
+## Start from the middle series (In the works)
+  Series of projects covering machine learning concepts, with the following steps:
+  * Overview of algorithm concepts, uses, trade-offs.
+  * Real world implementation using a popular library.
+  * Basic implementation from scratch.
+  * Performance comparison with the ML library.  
+  
+  This aims to give readers the best of both worlds by anchoring solid concepts to real world scenarios, and a deep dive on implementation details.
+
 ---
+
 
 ## Education & Certifications
 - **MS Computer Science - Data Science** (In Progress) - University of Illinois Urbana-Champaign
