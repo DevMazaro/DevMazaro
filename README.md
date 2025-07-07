@@ -28,9 +28,10 @@ With 15+ years of hands-on experience, I architect and deliver high-throughput d
 *These projects showcase technical capabilities and analytical approaches across various domains.*
 
 ### Machine Learning & Data Science
+* [**eBay Laptop Price Prediction**](https://github.com/DevMazaro/eBayPricePrediction)(In Progress): ML pipeline for predicting laptop resale prices using real-world eBay data. Demonstrates data cleaning, feature engineering, and neural network implementation for reverse logistics applications
 * [**Loan Default Prediction System**](https://github.com/DevMazaro/loan-default-prediction): A machine learning approach to predict loan default probability with risk scoring mechanisms for financial applications
 * [**Mall Customer Segmentation Analysis**](https://github.com/DevMazaro/mall-customer-segmentation): Comprehensive customer segmentation using multiple clustering techniques (K-Means, Hierarchical, DBSCAN) with actionable business insights
-* [**eBay Laptop Price Prediction**](https://github.com/DevMazaro/eBayPricePrediction)(In Progress): ML pipeline for predicting laptop resale prices using real-world eBay data. Demonstrates data cleaning, feature engineering, and neural network implementation for reverse logistics applications
+
 
 ### Data Visualization & Business Intelligence
 * [**Cybersecurity Vulnerability Analysis Dashboard**](https://public.tableau.com/app/profile/eduardo.mazaro/viz/security_dashboard/VulnerabilityAnalysisDashboard): Interactive Tableau dashboard analyzing CVE vulnerability trends over time, combining MITRE and Kaggle data sources with advanced filtering and brushing capabilities for cybersecurity insights
