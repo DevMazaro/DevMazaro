@@ -3,13 +3,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardomazaro-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/eduardomazaro)
 [![Email](https://img.shields.io/badge/Email-dev.mazaro%40gmail.com-red?style=flat-square&logo=gmail)](mailto:dev.mazaro@gmail.com)
 
-## About Me
-**Technical Program Manager building enterprise-scale data infrastructure and AI/ML systems for Fortune 500 companies.**
 
-With 15+ years of hands-on experience, I architect and deliver high-throughput data systems processing 2M+ events per second and 5TB+ daily volumes. I lead technical teams at Warner Bros., Dell, and Disney while staying close to the code - orchestrating Apache Kafka pipelines, Spark clusters, and ML model deployments that drive real business impact.
+### About Me
 
-- **Technical achievements:** 95% processing improvements, 99% deployment time reductions, and systems handling massive enterprise scale.
-- **Current focus:** Advanced data science, distributed systems, and ML engineering - reflected in the projects below.
+I am a senior technology leader with over 20 years of experience architecting and delivering high-impact data, AI, and ML solutions for companies like **Warner Bros.**, **Dell**, and **The Walt Disney Company**. My expertise is in translating complex business needs into robust and scalable technical realities.
+
+Throughout my career, I have led technical teams and architected systems that delivered a **$4M reduction in total cost of ownership**, rescued a failing data platform by **reducing its timeline by 75%**, and **improved deployment process efficiency by 99%**. I have deep experience with enterprise-scale data architecture, including systems processing over 5TB of daily analytics data into a Redshift data warehouse.
+
+To continue driving innovation at the intersection of technology and business strategy, I am currently pursuing a **Master's in Computer Science** with a specialization in **Data Science** from the **University of Illinois Urbana-Champaign (UIUC)**. The projects on this page reflect my focus on applying advanced machine learning and data science principles to solve critical challenges.
+
+- **Current focus:** Advanced data science, distributed systems, and ML engineering
 ---
 
 ## SKILLS HIGHLIGHTS
